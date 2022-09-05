@@ -1,0 +1,11 @@
+{
+  "name": "socket-server",
+  "version": "0.0.1",
+  "description": "\"Real time communication with node.js SocketIo Library\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manoj",
+  "license": "ISC"
+}
